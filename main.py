@@ -20,7 +20,7 @@ def main():
     # key args
     parser.add_argument("config", type=str, help="Config file")
     parser.add_argument("--debug", action="store_true", help="Debug mode")
-    parser.add_argument("--seed", type=int, default=-1, help="Random seed")
+    parser.add_argument("--seed", type=int, default=1, help="Random seed")
     parser.add_argument("--eval_path", type=str, default="", help="Path to evaluation data")
     # override config file
     parser.add_argument(
