@@ -4,7 +4,7 @@
 
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 
-[Zilin Wang](https://wayne2wang.github.io/)*, [Sangwoo Mo](https://sites.google.com/view/sangwoomo)*, [Stella X. Yu](https://web.eecs.umich.edu/~stellayu/), [Sima Behpour](https://www.linkedin.com/in/sima-behpour-95037713b/), [Liu Ren](https://www.liu-ren.com/)
+[Zilin Wang](https://wayne2wang.github.io/)\*, [Sangwoo Mo](https://sites.google.com/view/sangwoomo)\*, [Stella X. Yu](https://web.eecs.umich.edu/~stellayu/), [Sima Behpour](https://www.linkedin.com/in/sima-behpour-95037713b/), [Liu Ren](https://www.liu-ren.com/)
 
 [[Paper](https://web.eecs.umich.edu/~stellayu/publication/doc/2025oakCVPR.pdf)] | [[Project Page](https://oak-cvpr2025.github.io/)] [[Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34699.png?t=1748965972.857557)] | [[Citation](#citation)]
 
