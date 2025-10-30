@@ -11,3 +11,4 @@ Pillow==12.0.0
 PyYAML==6.0.3
 regex==2024.7.24
 tensorboard==2.20.0
+matplotlib==3.10.7

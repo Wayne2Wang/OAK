@@ -87,6 +87,14 @@ To run evaluation, use the following commands:
 python main.py [CONFIG_FILE] --eval_path [PATH_TO_WEIGHTS] --opts DATA.ROOT [PATH_TO_DATA_ROOT]
 ```
 
+To visualize the t-SNE plots, use the following commands:
+
+```
+python visualize_tsne.py [CONFIG_FILE] --eval_path [PATH_TO_WEIGHTS] --opts DATA.ROOT [PATH_TO_DATA_ROOT]
+```
+
+<img src="assets/tsne_oak_stanford_action.png" alt="t-SNE" width="600" style="max-width:100%;height:auto;" />
+
 
 ## Training
 
