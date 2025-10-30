@@ -60,7 +60,7 @@ def main():
         """
         Start evaluation
         """
-        trainer.evaluate()
+        trainer.evaluate(override_unlabeled_class_names=None, logger=logger)
 
     else:
         args.OUTPUT_DIR = join(args.SAVE_DIR, "{}_{}".format(args.EXP_NAME, dt.now().isoformat()))
