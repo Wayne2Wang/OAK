@@ -1,0 +1,13 @@
+base_config: oak_base.yaml
+
+EXP_NAME: "oak_stanford_action"
+TRAINER:
+  SOLVER:
+    LR: 0.1
+  OAK:
+    CLIP_TEXT_REG_WEIGHT: 0.1
+    TEXT_INV_REG_WEIGHT: 0.01
+
+DATA:
+  NAME: stanford_action
+  RANDOM_SEED: 0

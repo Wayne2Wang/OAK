@@ -1,0 +1,13 @@
+base_config: oak_base.yaml
+
+EXP_NAME: "oak_clevr4_count"
+TRAINER:
+  SOLVER:
+    LR: 0.01
+  OAK:
+    CLIP_TEXT_REG_WEIGHT: 1.0
+    TEXT_INV_REG_WEIGHT: 1.0
+
+DATA:
+  NAME: clevr4_count
+  RANDOM_SEED: 0

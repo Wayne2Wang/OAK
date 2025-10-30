@@ -1,0 +1,13 @@
+base_config: oak_base.yaml
+
+EXP_NAME: "oak_stanford_location"
+TRAINER:
+  SOLVER:
+    LR: 0.01
+  OAK:
+    CLIP_TEXT_REG_WEIGHT: 1.0
+    TEXT_INV_REG_WEIGHT: 1.0
+
+DATA:
+  NAME: stanford_location
+  RANDOM_SEED: 0

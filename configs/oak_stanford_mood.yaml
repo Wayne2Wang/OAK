@@ -1,0 +1,13 @@
+base_config: oak_base.yaml
+
+EXP_NAME: "oak_stanford_mood"
+TRAINER:
+  SOLVER:
+    LR: 0.1
+  OAK:
+    CLIP_TEXT_REG_WEIGHT: 100.0
+    TEXT_INV_REG_WEIGHT: 0.1
+
+DATA:
+  NAME: stanford_mood
+  RANDOM_SEED: 0
